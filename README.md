@@ -15,7 +15,7 @@ Control image zoom using your **hand gestures** via webcam! This Python project 
 
 ##  Demo
 
-> Move your **thumb and index finger** apart to zoom in, and closer to zoom out.
+ Move your **thumb and index finger** apart to zoom in, and closer to zoom out.
 
 
 ---
